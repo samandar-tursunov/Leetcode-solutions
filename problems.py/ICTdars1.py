@@ -40,7 +40,7 @@ yosh = (input("Yoshingiz nechida?"))
 
 if yosh<=4 or yosh>=60:
     narh = 0
-elif yosh < 18
+elif yosh < 18:
     narh = 10000
 else:
     narh = 20000
